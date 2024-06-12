@@ -1,2 +1,3 @@
-# book-search-engine
-A book search engine for browsing and keeping a list of new books to purchase
+# Book Search Engine
+
+A book search engine for browsing and keeping a list of new books to purchase...
